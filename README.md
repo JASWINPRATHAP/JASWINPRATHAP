@@ -1,7 +1,7 @@
 # Hi there! I'm Jaswinprathap Nallusamy 👋
 
 <p align="center">
-  <img src="./banner.png" alt="Jaswinprathap's Tech Banner" width="100%">
+  <img src="./banner.png" alt="Jaswinprathap's Tech Banner" width="100%" height="400">
 </p>
 
 <p align="center">
