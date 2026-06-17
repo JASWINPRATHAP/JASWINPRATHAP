@@ -1,6 +1,8 @@
 # Hi there! I'm Jaswinprathap Nallusamy 👋
 
-
+<p align="center">
+  <img src="./banner.png" alt="Jaswinprathap's Tech Banner" width="100%">
+</p>
 
 <p align="center">
   <a href="mailto:jaswinprathapn@gmail.com"><img src="https://img.shields.io/badge/Email-jaswinprathapn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
